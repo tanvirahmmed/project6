@@ -27,5 +27,6 @@ public class UseLinkedList {
             System.out.println(city);
         }
         System.out.println("After : " + list.size());
+        // Test by Tanvir
     }
 }
